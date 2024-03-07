@@ -1,0 +1,8 @@
+{
+    "printWidth": 120,
+    "tabWidth": 4,
+    "trailingComma": "all",
+    "tailwindConfig": "./tailwind.config.ts",
+    "tailwindFunctions": ["clsx"],
+    "plugins": ["prettier-plugin-tailwindcss"]
+}
